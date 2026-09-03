@@ -2507,4 +2507,4 @@ Command line cheat sheet for this collection made by [Coordinat Cat](https://git
 
 * * *
 
-Thank you for following me! [@cyb_detective](https://cybdetective.com)
+Thank you for following me! [@cyb_detective](https://cybdetective.com) .
